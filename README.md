@@ -1,5 +1,5 @@
-# 💫 About Me:
-**👋 Hi, I'm a Full Stack Web Developer & ERP Expert**<br><br>🔭 **Currently working on** building web solutions on Fiverr, Freelancer, Guru, and other freelancing platforms.<br><br>🤝 **Looking to collaborate on** full stack web development projects, ERP implementations, and software solutions.<br><br>💛 **Looking for help with** expanding my client base and taking on exciting new tech challenges.<br><br>⏳ **Currently learning** automation technologies to streamline development workflows.<br><br>💬 **Ask me about** Full Stack Web Development, ERP systems, and computer science concepts.<br><br> **Fun fact** I'm a BS Computer Science student and codes in multiple programming languages!
+ About Me:
+Hi, I'm a Full Stack Web Developer & ERP Expert**<br><br>**Currently working on** building web solutions on Fiverr, Freelancer, Guru, and other freelancing platforms.<br><br> **Looking to collaborate on** full stack web development projects, ERP implementations, and software solutions.<br><br> **Looking for help with** expanding my client base and taking on exciting new tech challenges.<br><br>⏳ **Currently learning** automation technologies to streamline development workflows.<br><br> **Ask me about** Full Stack Web Development, ERP systems, and computer science concepts.<br><br> **Fun fact** I'm a BS Computer Science student and codes in multiple programming languages!
 
 
 ## 🌐 Socials:
